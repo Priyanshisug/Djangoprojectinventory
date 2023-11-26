@@ -1,0 +1,2 @@
+# Djangoprojectinventory
+inventorymanagementsystem
